@@ -19,13 +19,21 @@ This is a full-stack application for managing tasks. It consists of a Node.js/Ex
 
 ### Project Structure
 api-server/ 
+
 ├── client/ # React frontend 
+
 │ ├── src/ │ 
+
 │ ├── components/ # React components 
+
 │ │ ├── services/ # API services 
+
 │ │ └── App.css # Global styles 
+
 │ └── package.json 
+
 ├── server.js # Express server 
+
 └── package.json
 
 ### Getting Started
