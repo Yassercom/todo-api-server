@@ -74,17 +74,17 @@ API: http://localhost:5000
 
 ## API Endpoints
 ### Tasks
-. GET /api/tasks - Get all tasks
-. GET /api/tasks/:id - Get a specific task
-. POST /api/tasks - Create a new task
-. PUT /api/tasks/:id - Update a task
-. DELETE /api/tasks/:id - Delete a task
+. GET /api/tasks - Get all tasks .
+. GET /api/tasks/:id - Get a specific task .
+. POST /api/tasks - Create a new task .
+. PUT /api/tasks/:id - Update a task .
+. DELETE /api/tasks/:id - Delete a task .
 
 ### Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+1. Fork the repository .
+2. Create a feature branch .
+3. Commit your changes .
+4. Push to the branch .
+5. Create a Pull Request .
 
 
